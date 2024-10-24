@@ -9,3 +9,4 @@
 - ASSIGNMENT 4 : [https://github.com/Rohit2303A510J0/23CSBTB28/blob/main/ASSIGNMENT_4/a4.ipynb]
 - ASSIGNMENT 5 : [https://github.com/Rohit2303A510J0/23CSBTB28/blob/main/ASSIGNMENT_5/a5.ipynb]
 - ASSIGNMENT 6 : [https://github.com/Rohit2303A510J0/23CSBTB28/blob/main/ASSIGNMENT_6/a6.ipynb]
+- ASSIGNMENT 7 : [https://github.com/Rohit2303A510J0/23CSBTB28/blob/main/ASSIGNMENT_7/a7.ipynb]
