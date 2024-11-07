@@ -10,3 +10,7 @@
 - ASSIGNMENT 5 : [https://github.com/Rohit2303A510J0/23CSBTB28/blob/main/ASSIGNMENT_5/a5.ipynb]
 - ASSIGNMENT 6 : [https://github.com/Rohit2303A510J0/23CSBTB28/blob/main/ASSIGNMENT_6/a6.ipynb]
 - ASSIGNMENT 7 : [https://github.com/Rohit2303A510J0/23CSBTB28/blob/main/ASSIGNMENT_7/a7.ipynb]
+- ASSIGNMENT 8 : [https://github.com/Rohit2303A510J0/23CSBTB28/blob/main/ASSIGNMENT_8/a8.ipynb]
+- ASSIGNMENT 9 : [https://github.com/Rohit2303A510J0/23CSBTB28/blob/main/ASSIGNMENT_9/a9.ipynb]
+- ASSIGNMENT 10 : [https://github.com/Rohit2303A510J0/23CSBTB28/blob/main/ASSIGNMENT_10/a10.ipynb]
+- Lab exam (Linear Regression) : [https://github.com/Rohit2303A510J0/23CSBTB28/blob/main/exam_LinearRegression.ipynb]
